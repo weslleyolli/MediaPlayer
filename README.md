@@ -7,7 +7,8 @@
 </p>
 
 <p align="center">
-  <img alt="Preview" src="image.png">
+![image](https://user-images.githubusercontent.com/102666726/211858793-e06d4813-6909-4e93-b2b2-2285f8bc7b8b.png)
+
 </p>
 
 <br>
