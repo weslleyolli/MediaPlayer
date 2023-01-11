@@ -1,17 +1,21 @@
 <h1 align="center"> Media Player </h1>
 
 <p align="center">
-  <a href="#-tecnologias">technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-Preview">technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-technologies">technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
 <p align="center">
-![image](https://user-images.githubusercontent.com/102666726/211858793-e06d4813-6909-4e93-b2b2-2285f8bc7b8b.png)
 
 </p>
 
 <br>
+
+## Preview
+
+![image](https://user-images.githubusercontent.com/102666726/211861314-aed93756-e7b3-4a11-ab43-356520498b81.png)
 
 ## 🚀 technologies
 
